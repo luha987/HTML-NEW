@@ -1,7 +1,7 @@
 <h1>Template HTML</h1>
 
 <h2>WebSite</h2>
-<a href="https://haha-fb15b.web.app/">https://haha-fb15b.web.app/</a>
+<a href="https://haha-fb15b.web.app/" target="_blank">https://haha-fb15b.web.app/</a>
 
 <h3>Photo 1</h3>
 <img src="1.png" alt=""></a>
